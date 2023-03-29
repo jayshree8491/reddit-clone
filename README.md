@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvariety.com%2F2020%2Fdigital%2Fnews%2Freddit-bans-hate-speech-groups-removes-2000-subreddits-donald-trump-1234692898%2F&psig=AOvVaw2ZeKz5B24Q31ezmICvgnOE&ust=1680164699342000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiJ_bLbgP4CFQAAAAAdAAAAABAE" alt="Logo"/>
+  <img src="https://images.ctfassets.net/lzny33ho1g45/how-to-post-to-reddit-p-img/e1199d1cec4ddd74c5a9ef46a3890b8b/file.png?w=1520&fm=jpg&q=30&fit=thumb&h=760" alt="Logo"/>
 </p>
 
